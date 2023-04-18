@@ -1,2 +1,2 @@
 # audio-genre-classification
-This repository contains a project focused on classifying songs into the genres of 'Hip-Hop' or 'Rock'.
+This repository contains a project focused on classifying songs into the genres of 'Hip-Hop' or 'Rock', without listening to them, using data analysis techniques. The project uses a dataset compiled by The Echo Nest, and involves data cleaning, exploratory data visualization, and feature reduction. Machine learning algorithms such as decision trees and logistic regression are also implemented towards the classification goal. This project demonstrates the use of data analysis techniques for music categorization and personalized recommendations.
